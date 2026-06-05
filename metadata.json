@@ -1,0 +1,8 @@
+{
+  "name": "Tech Flow AI",
+  "description": "Plataforma de automatización industrial y mantenimiento inteligente impulsada por IA y orquestación neuronal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
